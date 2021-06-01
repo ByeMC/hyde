@@ -2,7 +2,7 @@
 title:            ByeMC
 tagline:          'A guy who blogs'
 description:      'Hello. You came from somewhere... but... lets face it. I don&#39;t care.'
-url:              https://byemc.xyz
+url:              https://byemc.xyz/
 baseurl:          '/hyde'
 paginate:         5
 
@@ -16,5 +16,3 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
 
-# Custom vars
-version:          'not caring'
