@@ -1,15 +1,15 @@
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://hyde.getpoole.com
-baseurl:          ''
+title:            ByeMC
+tagline:          'A guy who blogs'
+description:      'Hello. You came from somewhere... but... lets face it. I don&#39;t care.'
+url:              https://byemc.xyz
+baseurl:          '/hyde'
 paginate:         5
 
 # About and contact
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'ByeMC'
+  url:            https://twitter.com/_byemc
 
 # Gems
 plugins:
@@ -17,4 +17,4 @@ plugins:
   - jekyll-gist
 
 # Custom vars
-version:          3.0.0
+version:          'not caring'
